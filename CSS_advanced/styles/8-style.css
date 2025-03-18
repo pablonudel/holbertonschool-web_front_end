@@ -3,7 +3,7 @@ html {
   font-size: 0.625em;
 }
 
-body, #services, #works, #about, #latest_news, #testimonials, #contact {
+body, a {
   color: var(--text-color);
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);

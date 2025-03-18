@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-body, #services, #works, #about, #latest_news, #testimonials, #contact {
+body, a {
   color: #161616;
 }
 
